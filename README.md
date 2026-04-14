@@ -1,16 +1,122 @@
-## Hi there 👋
+# 👋 Привет, я Артём Чебоксаров
 
-<!--
-**0p1umMmMmM/0p1umMmMmM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Backend Developer  
+📍 Уфа, Россия  
+📫 Связь: deonikl123@yandex.ru  
+📱 Telegram: https://t.me/deonikl123  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Обо мне
+
+Я backend-разработчик на Python. Мне всегда была интересна "невидимая" часть приложений — логика, работа с данными, API, авторизация и архитектура сервисов.
+
+Обучался в Яндекс Практикуме, где получил практический опыт разработки backend-приложений с использованием современных технологий.
+
+Сейчас продолжаю развиваться, изучаю Django и backend-архитектуру, и открыт к новым возможностям.
+
+---
+
+## 🛠️ Стек технологий
+
+- **Языки:** Python  
+- **Фреймворки:** Django, Django REST Framework, Flask  
+- **Базы данных:** PostgreSQL, SQLite  
+- **Инструменты:** Docker, Docker Compose, Git, GitHub, Bash  
+- **Тестирование:** Pytest  
+- **Прочее:** REST API, JWT, Linux  
+
+---
+
+## 📂 Проекты
+
+### 🍲 Foodgram
+🔗 https://github.com/0p1umMmMmM/foodgram.git  
+
+Backend и REST API для сервиса рецептов.  
+Реализовано:
+- публикация рецептов  
+- избранное  
+- список покупок  
+- подписки  
+
+**Стек:** Python, Django REST Framework, PostgreSQL, Docker, Pytest  
+
+---
+
+### ⭐ YaMDb API
+🔗 https://github.com/0p1umMmMmM/api-yamdb.git  
+
+Командный проект — API для сервиса отзывов.  
+Реализовано:
+- роли пользователей  
+- регистрация по email  
+- JWT-аутентификация  
+- разграничение прав доступа  
+
+**Стек:** Python, Django, Django REST Framework, PostgreSQL, JWT  
+
+---
+
+### 🔗 Async Yacut
+🔗 https://github.com/0p1umMmMmM/async-yacut.git  
+
+Сервис коротких ссылок и загрузки файлов.  
+Реализовано:
+- генерация коротких ссылок  
+- редиректы  
+- интеграция с Yandex Disk API  
+
+**Стек:** Python, Flask, SQLite  
+
+---
+
+### 🤖 Telegram-бот
+
+Бот для салона красоты для приёма заказов.  
+Реализовано:
+- меню напитков  
+- оформление заказов  
+- уведомление администратора  
+
+**Стек:** Python, Telegram Bot API  
+
+---
+
+## 🎓 Образование
+
+🎓 Финансовый университет при Правительстве РФ  
+Специальность: Менеджмент (2026)  
+
+📚 Яндекс Практикум  
+Курс: Python Backend Developer  
+
+---
+
+## 📈 Опыт
+
+🧑‍💻 Коммерческий/проектный опыт: ~1 год :contentReference[oaicite:0]{index=0}  
+
+- Разработка REST API  
+- Работа с базами данных  
+- Контейнеризация приложений  
+- Командная разработка  
+
+---
+
+## 🎯 Цели
+
+- Развиваться как backend-разработчик  
+- Работать с высоконагруженными сервисами  
+- Углубить знания Django и архитектуры приложений  
+
+---
+
+## 📬 Связаться со мной
+
+- Email: deonikl123@yandex.ru  
+- Telegram: https://t.me/deonikl123  
+
+---
+
+⭐ Спасибо за внимание к моему профилю!
